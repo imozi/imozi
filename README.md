@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am DevOps engineer from Kamchatka 🗻, but i like Frontend-development 💛 & UX-design 🎨. 
+I am DevOps engineer from Kamchatka 🗻, but i like Frontend-development 💛 & UI/UX-design 🎨. 
 <!--
 **imozi/imozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
