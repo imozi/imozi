@@ -18,7 +18,7 @@
 ### ℹ️ About me:
 - 🧑‍💻 I`m a Frontend developer 
 - 🌋 I live in Kamchatka 
-- 🏂 I like to ride a snowdoard
+- 🏂 I like snowdoarding
 - 🎸 I like to play the electric guitar
 - 📜 Watch my experiences [CV](https://ozihub.ru/cv)
 
