@@ -20,7 +20,10 @@
 - 🌋 I live in Kamchatka 
 - 🏂 I like snowdoarding
 - 🎸 I like to play the electric guitar
-- 📜 Watch my experiences [CV](https://ozihub.ru/cv)
+  
+<!---
+📜 Watch my experiences [CV](https://ozihub.ru/cv)
+-->
 
 
 ### 🛠 Languages and tools
