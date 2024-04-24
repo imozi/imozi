@@ -18,9 +18,7 @@
 ### ℹ️ About me:
 - 🧑‍💻 I`m a Frontend developer 
 - 🌋 I live in Kamchatka 
-- 🏂 I like snowdoarding
-- 🎸 I like to play the electric guitar
-  
+
 <!---
 📜 Watch my experiences [CV](https://ozihub.ru/cv)
 -->
@@ -32,11 +30,18 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width="40"> &nbsp;
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40"> &nbsp;
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40"> &nbsp;
+	<!---
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="40"> &nbsp;
+	-->
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg' width="40"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="40"> &nbsp;        
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="40"> &nbsp;
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' width="40"> &nbsp;
   <img src='https://vitejs.dev/logo.svg' width="40"> &nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width="40"> &nbsp;
+	<!---
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg' width="50"> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40">     
+	-->
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width="40"> &nbsp;
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="40"> &nbsp;
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width="40"> &nbsp;
